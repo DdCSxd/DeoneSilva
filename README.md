@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">Olá, eu sou o Gabriel Rodrigues ! 🧑‍💻</h2>
+<h2 align="center">Olá, eu sou o Deone Silva ! 🧑‍💻</h2>
 
 ###
 
-<h3 align="left">Sou um estudante do último período de Engenharia de Software com uma trajetória marcada pela disciplina e liderança desenvolvidas ao longo de 8 anos no Exército Brasileiro. Atualmente, foco minha transição de carreira para o desenvolvimento de software, unindo a resiliência militar com a paixão por resolver problemas através do código.</h3>
+<h3 align="left">Estudante de Engenharia de Software (4º período) com experiência em suporte técnico N1 e resolução de problemas em sistemas. Conhecimentos em Python, Java, PHP e MySQL, com foco em desenvolvimento e automação. Perfil proativo, disciplinado e em constante evolução na área de tecnologia.</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h6 align="left">🛠️ Soft Skills: Organização, proatividade, trabalho em equipe e facilidade de adaptação.<br><br>🎖️ Background: Cabo do Exército (DOMPSA)<br><br>🎓 Formação: Engenharia de Software na Estácio.</h6>
+<h6 align="left">🛠️ Soft Skills: Organização, proatividade, trabalho em equipe e facilidade de adaptação.<br><br>🎖️ Background: Cabo do Exército (DOMPSA)<br><br>🎓 Formação: Engenharia de Software.</h6>
 
 
 
